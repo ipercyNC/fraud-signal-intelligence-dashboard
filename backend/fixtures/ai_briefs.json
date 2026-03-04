@@ -1,0 +1,32 @@
+{
+  "APP-0001": {
+    "summaryBullets": [
+      "Current risk profile is dominated by identity and velocity checks with moderate total confidence.",
+      "No strong linked-entity conflict is present beyond baseline volume patterns.",
+      "Case activity history is light, so analyst context should be added before final closure.",
+      "Submission timing and completion behavior are not extreme relative to high-risk clusters.",
+      "Prior disposition history for this record remains compatible with enhanced manual review."
+    ],
+    "recommendedAction": "Refer to Underwriter"
+  },
+  "APP-0025": {
+    "summaryBullets": [
+      "Application matches known agent-anomaly cluster with elevated repeat behavior.",
+      "Speed of completion and associated relationship signals increase abuse likelihood.",
+      "Cross-entity overlap suggests this case is part of a coordinated pattern, not isolated noise.",
+      "Escalation value is high because similar patterns can fan out quickly across recent submissions.",
+      "Evidence quality is sufficient for escalation while preserving investigator override authority."
+    ],
+    "recommendedAction": "Escalate to SIU"
+  },
+  "APP-0030": {
+    "summaryBullets": [
+      "High-severity indicators align with potentially conflicted beneficiary/agent profile.",
+      "Financial and behavioral context supports elevated fraud suspicion rather than underwriting variance.",
+      "Risk concentration is strong enough that additional routine review is unlikely to change direction.",
+      "Downstream operational impact favors decisive handling to prevent policy-bind exposure.",
+      "Current evidence bundle is coherent and defensible for adverse disposition."
+    ],
+    "recommendedAction": "Decline"
+  }
+}

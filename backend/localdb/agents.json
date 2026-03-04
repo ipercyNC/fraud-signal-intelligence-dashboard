@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AGT-0001",
+    "name": "Morgan Young",
+    "state": "NC",
+    "yearsActive": 17,
+    "submissions30d": 136,
+    "flaggedRate90d": 0.41,
+    "priorEscalations": 24
+  },
+  {
+    "id": "AGT-0002",
+    "name": "Parker Clark",
+    "state": "AZ",
+    "yearsActive": 22,
+    "submissions30d": 9,
+    "flaggedRate90d": 0.085,
+    "priorEscalations": 8
+  },
+  {
+    "id": "AGT-0003",
+    "name": "Riley Lee",
+    "state": "PA",
+    "yearsActive": 2,
+    "submissions30d": 41,
+    "flaggedRate90d": 0.192,
+    "priorEscalations": 4
+  },
+  {
+    "id": "AGT-0004",
+    "name": "Rowan Lee",
+    "state": "NC",
+    "yearsActive": 1,
+    "submissions30d": 13,
+    "flaggedRate90d": 0.028,
+    "priorEscalations": 4
+  },
+  {
+    "id": "AGT-0005",
+    "name": "Casey Clark",
+    "state": "CO",
+    "yearsActive": 8,
+    "submissions30d": 13,
+    "flaggedRate90d": 0.092,
+    "priorEscalations": 10
+  },
+  {
+    "id": "AGT-0006",
+    "name": "Kendall Lee",
+    "state": "AZ",
+    "yearsActive": 24,
+    "submissions30d": 57,
+    "flaggedRate90d": 0.17,
+    "priorEscalations": 4
+  },
+  {
+    "id": "AGT-0007",
+    "name": "Riley Hall",
+    "state": "WA",
+    "yearsActive": 8,
+    "submissions30d": 34,
+    "flaggedRate90d": 0.145,
+    "priorEscalations": 0
+  },
+  {
+    "id": "AGT-0008",
+    "name": "Taylor Davis",
+    "state": "WA",
+    "yearsActive": 10,
+    "submissions30d": 27,
+    "flaggedRate90d": 0.028,
+    "priorEscalations": 4
+  },
+  {
+    "id": "AGT-0009",
+    "name": "Alex King",
+    "state": "GA",
+    "yearsActive": 24,
+    "submissions30d": 37,
+    "flaggedRate90d": 0.039,
+    "priorEscalations": 8
+  },
+  {
+    "id": "AGT-0010",
+    "name": "Casey Martinez",
+    "state": "FL",
+    "yearsActive": 13,
+    "submissions30d": 22,
+    "flaggedRate90d": 0.17,
+    "priorEscalations": 3
+  },
+  {
+    "id": "AGT-0011",
+    "name": "Morgan Walker",
+    "state": "NC",
+    "yearsActive": 24,
+    "submissions30d": 19,
+    "flaggedRate90d": 0.039,
+    "priorEscalations": 5
+  },
+  {
+    "id": "AGT-0012",
+    "name": "Hayden Walker",
+    "state": "PA",
+    "yearsActive": 11,
+    "submissions30d": 16,
+    "flaggedRate90d": 0.091,
+    "priorEscalations": 8
+  },
+  {
+    "id": "AGT-0013",
+    "name": "Rowan Wilson",
+    "state": "NC",
+    "yearsActive": 13,
+    "submissions30d": 51,
+    "flaggedRate90d": 0.072,
+    "priorEscalations": 7
+  },
+  {
+    "id": "AGT-0014",
+    "name": "Alex Walker",
+    "state": "CA",
+    "yearsActive": 3,
+    "submissions30d": 39,
+    "flaggedRate90d": 0.046,
+    "priorEscalations": 7
+  },
+  {
+    "id": "AGT-0015",
+    "name": "Hayden Wilson",
+    "state": "WA",
+    "yearsActive": 4,
+    "submissions30d": 59,
+    "flaggedRate90d": 0.155,
+    "priorEscalations": 8
+  },
+  {
+    "id": "AGT-0016",
+    "name": "Jordan Davis",
+    "state": "NY",
+    "yearsActive": 17,
+    "submissions30d": 47,
+    "flaggedRate90d": 0.186,
+    "priorEscalations": 8
+  },
+  {
+    "id": "AGT-0017",
+    "name": "Alex Wilson",
+    "state": "WA",
+    "yearsActive": 13,
+    "submissions30d": 33,
+    "flaggedRate90d": 0.128,
+    "priorEscalations": 4
+  },
+  {
+    "id": "AGT-0018",
+    "name": "Jordan Johnson",
+    "state": "PA",
+    "yearsActive": 22,
+    "submissions30d": 20,
+    "flaggedRate90d": 0.015,
+    "priorEscalations": 5
+  },
+  {
+    "id": "AGT-0019",
+    "name": "Alex Young",
+    "state": "NC",
+    "yearsActive": 5,
+    "submissions30d": 59,
+    "flaggedRate90d": 0.176,
+    "priorEscalations": 2
+  },
+  {
+    "id": "AGT-0020",
+    "name": "Jordan Martinez",
+    "state": "OH",
+    "yearsActive": 4,
+    "submissions30d": 41,
+    "flaggedRate90d": 0.027,
+    "priorEscalations": 6
+  },
+  {
+    "id": "AGT-0021",
+    "name": "Parker Brown",
+    "state": "NY",
+    "yearsActive": 11,
+    "submissions30d": 45,
+    "flaggedRate90d": 0.111,
+    "priorEscalations": 7
+  },
+  {
+    "id": "AGT-0022",
+    "name": "Riley Wilson",
+    "state": "GA",
+    "yearsActive": 4,
+    "submissions30d": 21,
+    "flaggedRate90d": 0.014,
+    "priorEscalations": 6
+  },
+  {
+    "id": "AGT-0023",
+    "name": "Rowan Walker",
+    "state": "OH",
+    "yearsActive": 8,
+    "submissions30d": 9,
+    "flaggedRate90d": 0.184,
+    "priorEscalations": 6
+  },
+  {
+    "id": "AGT-0024",
+    "name": "Jordan Martinez",
+    "state": "TX",
+    "yearsActive": 13,
+    "submissions30d": 38,
+    "flaggedRate90d": 0.152,
+    "priorEscalations": 3
+  }
+]

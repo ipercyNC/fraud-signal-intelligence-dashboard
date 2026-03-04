@@ -1,0 +1,44 @@
+{
+  "name": "insurance-fraud-dashboard",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "py:check": "node scripts/run-python.mjs -c \"import sys; print(f'Python {sys.version.split()[0]}')\"",
+    "py:install": "node scripts/run-python.mjs -m pip install -r requirements.txt",
+    "api:dev": "node scripts/run-python.mjs -m uvicorn backend.app.main:app --reload --host 127.0.0.1 --port 8000",
+    "build": "tsc -p tsconfig.app.json --noEmit && tsc -p tsconfig.node.json --noEmit && vite build",
+    "preview": "vite preview",
+    "test:frontend": "node scripts/run-frontend-unit-tests.mjs",
+    "test:backend": "node scripts/run-python.mjs -m unittest discover -s backend/tests -p \"test_*.py\"",
+    "test": "npm run test:frontend && npm run test:backend",
+    "lint": "npm run lint:eslint && npm run lint:typecheck",
+    "lint:eslint": "eslint . --max-warnings 0",
+    "lint:typecheck": "tsc -p tsconfig.app.json --noEmit && tsc -p tsconfig.node.json --noEmit",
+    "data:generate": "node scripts/generate-data.mjs",
+    "qa:e2e": "node scripts/qa-e2e.mjs",
+    "demo:reset": "node scripts/demo-reset.mjs",
+    "demo:dev": "node scripts/dev-all.mjs",
+    "screenshots:capture": "node scripts/capture-screenshots.mjs",
+    "verify": "npm run lint && npm test && npm run build"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "recharts": "^2.13.0",
+    "zustand": "^4.5.5"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.8",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^9.10.0",
+    "playwright": "^1.58.2",
+    "postcss": "^8.4.45",
+    "tailwindcss": "^3.4.13",
+    "typescript": "^5.6.2",
+    "vite": "^5.4.8"
+  }
+}

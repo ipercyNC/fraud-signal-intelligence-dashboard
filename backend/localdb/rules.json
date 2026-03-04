@@ -1,0 +1,146 @@
+[
+  {
+    "id": "SIG_ID_01",
+    "name": "Address mismatch",
+    "category": "Identity",
+    "weight": 12,
+    "defaultWeight": 12,
+    "status": "Active"
+  },
+  {
+    "id": "SIG_ID_02",
+    "name": "IP geolocation mismatch",
+    "category": "Identity",
+    "weight": 10,
+    "defaultWeight": 10,
+    "status": "Active"
+  },
+  {
+    "id": "SIG_ID_03",
+    "name": "SSN age mismatch",
+    "category": "Identity",
+    "weight": 14,
+    "defaultWeight": 14,
+    "status": "Active"
+  },
+  {
+    "id": "SIG_ID_04",
+    "name": "Thin credit file",
+    "category": "Identity",
+    "weight": 9,
+    "defaultWeight": 9,
+    "status": "Active"
+  },
+  {
+    "id": "SIG_VEL_01",
+    "name": "Multi-application in 30 days",
+    "category": "Velocity",
+    "weight": 18,
+    "defaultWeight": 18,
+    "status": "Active"
+  },
+  {
+    "id": "SIG_VEL_02",
+    "name": "Shared phone/email in 90 days",
+    "category": "Velocity",
+    "weight": 15,
+    "defaultWeight": 15,
+    "status": "Active"
+  },
+  {
+    "id": "SIG_VEL_03",
+    "name": "Device fingerprint reuse",
+    "category": "Velocity",
+    "weight": 17,
+    "defaultWeight": 17,
+    "status": "Active"
+  },
+  {
+    "id": "SIG_VEL_04",
+    "name": "Agent velocity spike",
+    "category": "Velocity",
+    "weight": 16,
+    "defaultWeight": 16,
+    "status": "Active"
+  },
+  {
+    "id": "SIG_BEH_01",
+    "name": "Questionnaire under 90 seconds",
+    "category": "Behavioral",
+    "weight": 8,
+    "defaultWeight": 8,
+    "status": "Active"
+  },
+  {
+    "id": "SIG_BEH_02",
+    "name": "Paste behavior in key fields",
+    "category": "Behavioral",
+    "weight": 9,
+    "defaultWeight": 9,
+    "status": "Active"
+  },
+  {
+    "id": "SIG_BEH_03",
+    "name": "Session restart anomaly",
+    "category": "Behavioral",
+    "weight": 7,
+    "defaultWeight": 7,
+    "status": "Active"
+  },
+  {
+    "id": "SIG_BEH_04",
+    "name": "Off-hours submission",
+    "category": "Behavioral",
+    "weight": 6,
+    "defaultWeight": 6,
+    "status": "Active"
+  },
+  {
+    "id": "SIG_FIN_01",
+    "name": "Coverage-to-income anomaly",
+    "category": "Financial",
+    "weight": 13,
+    "defaultWeight": 13,
+    "status": "Active"
+  },
+  {
+    "id": "SIG_FIN_02",
+    "name": "High-value first policy",
+    "category": "Financial",
+    "weight": 14,
+    "defaultWeight": 14,
+    "status": "Active"
+  },
+  {
+    "id": "SIG_FIN_03",
+    "name": "Beneficiary not immediate family",
+    "category": "Financial",
+    "weight": 11,
+    "defaultWeight": 11,
+    "status": "Active"
+  },
+  {
+    "id": "SIG_AG_01",
+    "name": "Agent prior flagged history",
+    "category": "Agent",
+    "weight": 12,
+    "defaultWeight": 12,
+    "status": "Active"
+  },
+  {
+    "id": "SIG_AG_02",
+    "name": "Agent listed as beneficiary",
+    "category": "Agent",
+    "weight": 20,
+    "defaultWeight": 20,
+    "status": "Active"
+  },
+  {
+    "id": "SIG_AG_03",
+    "name": "Rapid agent submission after open",
+    "category": "Agent",
+    "weight": 10,
+    "defaultWeight": 10,
+    "status": "Active"
+  }
+]
