@@ -76,6 +76,20 @@ Demo login defaults:
 
 Detailed walkthrough: `docs/WALKTHROUGH.md`.
 
+## Screenshots
+
+### Live Queue
+
+![Live Queue](docs/screenshots/live-queue.png)
+
+### Case Detail + AI Brief
+
+![Case Detail + AI Brief](docs/screenshots/case-detail-ai-brief.png)
+
+### Analytics
+
+![Analytics](docs/screenshots/analytics.png)
+
 ## API Surface
 
 - `GET /health`
